@@ -1,17 +1,17 @@
 {
   "files": {
-    "main.css": "/FrontEndDeveloperAssignment/static/css/main.67ff3150.css",
-    "main.js": "/FrontEndDeveloperAssignment/static/js/main.0b22c310.js",
-    "static/media/userimg.png": "/FrontEndDeveloperAssignment/static/media/userimg.baee35dcd5fcac345a1b.png",
-    "static/media/female.png": "/FrontEndDeveloperAssignment/static/media/female.3f889d0af5f26871fbcc.png",
-    "static/media/male.png": "/FrontEndDeveloperAssignment/static/media/male.f1e1f8f6deff9cea78ae.png",
-    "static/media/admin.png": "/FrontEndDeveloperAssignment/static/media/admin.3fcda164c3a2a747dadb.png",
-    "index.html": "/FrontEndDeveloperAssignment/index.html",
-    "main.67ff3150.css.map": "/FrontEndDeveloperAssignment/static/css/main.67ff3150.css.map",
-    "main.0b22c310.js.map": "/FrontEndDeveloperAssignment/static/js/main.0b22c310.js.map"
+    "main.css": "/Assignment/static/css/main.67ff3150.css",
+    "main.js": "/Assignment/static/js/main.cf86207f.js",
+    "static/media/userimg.png": "/Assignment/static/media/userimg.baee35dcd5fcac345a1b.png",
+    "static/media/female.png": "/Assignment/static/media/female.3f889d0af5f26871fbcc.png",
+    "static/media/male.png": "/Assignment/static/media/male.f1e1f8f6deff9cea78ae.png",
+    "static/media/admin.png": "/Assignment/static/media/admin.3fcda164c3a2a747dadb.png",
+    "index.html": "/Assignment/index.html",
+    "main.67ff3150.css.map": "/Assignment/static/css/main.67ff3150.css.map",
+    "main.cf86207f.js.map": "/Assignment/static/js/main.cf86207f.js.map"
   },
   "entrypoints": [
     "static/css/main.67ff3150.css",
-    "static/js/main.0b22c310.js"
+    "static/js/main.cf86207f.js"
   ]
 }
